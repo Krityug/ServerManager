@@ -1,0 +1,10 @@
+name: ServerManager
+version: ${project.version}
+main: net.hypexmc.ServerManager
+authors: [HypexMC]
+description: Created to lock the weather,time and manage the server.
+website: https://hypexmc.net
+commands:
+  settings:
+    description: Opens player settings manager.
+    usage: /settings
